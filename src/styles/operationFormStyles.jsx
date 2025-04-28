@@ -55,4 +55,9 @@ export default StyleSheet.create({
     color: 'white',
     fontSize: 18,
   },
+  historialContainer: {
+    alignItems: 'start',
+    marginLeft: '10%',
+  },
+  
 });
